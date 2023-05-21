@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what would you like to learn about this filing?',
+        message: 'Hi, what would you like to learn about this sec filing?',
         type: 'apiMessage',
       },
     ],
